@@ -47,14 +47,14 @@ main {
     font-size: 40px;
 }
 
-.trainee-personal-infomation-container {
+.trainee-personal-information-container {
     margin-top: 30px;
     display: flex;
     flex-direction: column;
     gap: 20px;
 }
 
-.trainee-personal-infomation-container p {
+.trainee-personal-information-container p {
     font-size: 18px;
 }
 
@@ -83,27 +83,27 @@ main {
     line-height: 28px;
 }
 
-.skill-items-container{
+.skill-items-container {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
-.responsabilities-container{
-    margin: 10px 30px;
+.responsibilities-container {
+    margin: 20px 30px;
 }
 
-.formation-header{
+.formation-header {
     display: flex;
     justify-content: space-between;
     margin-bottom: 5px;
 }
 
-.formation-title{
+.formation-title {
     font-weight: bold;
 }
 
-footer{
+footer {
     width: 100%;
     background-color: #D6EE52;
     height: 40px;
