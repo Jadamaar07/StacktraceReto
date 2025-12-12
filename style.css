@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #D6EE52;
+    padding: 10px 50px;
+}
+
+header img {
+    width: 200px;
+}
+
+header p {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+main {
+    padding: 45px 100px;
+}
+
+.personal-info-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.personal-info-container img {
+    width: 380px;
+    height: 350px;
+}
+
+.trainee-name-container {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 30px;
+}
+
+.trainee-name-container h2 {
+    font-size: 40px;
+}
+
+.trainee-personal-infomation-container {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.trainee-personal-infomation-container p {
+    font-size: 18px;
+}
+
+.information-container {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.section-title {
+    color: white;
+    background-color: #BED733;
+    padding: 4px 10px;
+    width: fit-content;
+}
+
+.information-container p {
+    font-size: 18px;
+}
+
+.information-container ul {
+    padding-left: 30px;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.skill-items-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.responsabilities-container{
+    margin: 10px 30px;
+}
+
+.formation-header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.formation-title{
+    font-weight: bold;
+}
+
+footer{
+    width: 100%;
+    background-color: #D6EE52;
+    height: 40px;
+    margin-top: 10px;
+}
